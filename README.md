@@ -7,10 +7,10 @@ Paste and run this in your colab notebook in the last cell.
 from colab_pdf import colab_pdf
 colab_pdf('example-assignment.ipynb',notebookpath="/content/drive/MyDrive/")
 ```
-Enter the the full file name as shown above, within quotes. The pdf will be saved on your Google Drive.
+Enter the the full file name as shown above, within quotes as well as check the notebookpath. The pdf will be saved on your Google Drive.
 
 
-in the first cell/last cell of the notebook.
+run the code in the first cell/last cell of the notebook when you are ready to convert to pdf.
 ___
 
 #### Google Drive Access
