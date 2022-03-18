@@ -5,7 +5,7 @@ Paste and run this in your colab notebook in the last cell.
 ```ipython
 !wget -nc https://raw.githubusercontent.com/suewsu875/colab-pdf/master/colab_pdf.py
 from colab_pdf import colab_pdf
-colab_pdf('example-assignment.ipynb')
+colab_pdf('example-assignment.ipynb',notebookpath="/content/drive/MyDrive/")
 ```
 Enter the the full file name as shown above, within quotes. The pdf will be saved on your Google Drive.
 
